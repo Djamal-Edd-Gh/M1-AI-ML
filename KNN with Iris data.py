@@ -70,9 +70,10 @@ ConfusionMatrixDisplay.from_estimator(knn, X_test, y_test)
 plt.title("Matrice de confusion KNN")
 plt.show()
 
-"""Explications pour les étudiants :
+"""Explications :
  - La précision (accuracy) correspond au pourcentage de bonnes prédictions.
  - La matrice de confusion montre combien d'exemples ont été correctement
    classés pour chaque espèce et où le modèle s'est trompé.
  - KNN est simple mais puissant : la qualité dépend du choix de k, du type de distance et du poids des voisins.
+
 """
