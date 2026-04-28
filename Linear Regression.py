@@ -1,10 +1,5 @@
 """
-Régression Linéaire – Domaine Énergétique
-==========================================
-Problème : Prédire la consommation électrique (kWh) en fonction
-           de la température extérieure (°C).
-
-Objectif pédagogique : 
+Objectif: 
 Comprendre comment l'algorithme trouve la meilleure droite (y = ax + b) 
 pour modéliser la relation entre deux variables continues, et comment 
 évaluer la qualité de cette prédiction.
