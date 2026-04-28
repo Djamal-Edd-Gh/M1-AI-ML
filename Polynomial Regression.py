@@ -1,10 +1,5 @@
 """
-Régression Polynomiale – Domaine Énergétique
-=============================================
-Problème : Prédire la consommation électrique (kWh) en fonction
-           de la température.
-
-Objectif pédagogique : 
+Objectif: 
 Comprendre comment modéliser une relation non-linéaire (courbe en U).
 Ici, la consommation augmente aux deux extrêmes : 
  - S'il fait froid = Chauffage
